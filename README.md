@@ -2,7 +2,7 @@
 
 # requirements
 
-## change the ID in the command files to your user ID
+change the ID in the command files to your user ID
 
 Discord.py for Linux and MacOS: 
 ```
