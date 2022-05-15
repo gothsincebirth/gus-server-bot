@@ -1,20 +1,20 @@
 # gus-server-bot
 
-# setup
+# requirements
 
-download discord.py using 
+## change the ID in the command files to your user ID
 
-For Linux and MacOS: 
+Discord.py for Linux and MacOS: 
 ```
 python3 -m pip install -U discord.py
 ``` 
 
-For Windows:
+Discord.py for Windows:
 ``` 
 py -3 -m pip install -U discord.py
 ``` 
 
-download python-dotenv using
+Python-dotenv download
 ```
 pip install python-dotenv
 ```
