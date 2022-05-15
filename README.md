@@ -13,3 +13,8 @@ For Windows:
 ``` 
 py -3 -m pip install -U discord.py
 ``` 
+
+download python-dotenv using
+```
+pip install python-dotenv
+```
