@@ -1,5 +1,7 @@
 # gus-server-bot
 
+# To Do
+planning on adding a profile system in the future or something if i remember
 # requirements
 
 change the ID in the command files to your user ID
