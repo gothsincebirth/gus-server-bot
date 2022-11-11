@@ -1,6 +1,6 @@
 # gus-server-bot
 
-#setup 
+# setup 
 
 # requirement
 Discord.py for Linux and MacOS: 
@@ -22,3 +22,16 @@ pip install python-dotenv
 Adminstraitor commands:
 ```
 **Add warning system**
+```
+
+General Commands:
+```
+**Add profile system**
+**Add level system**
+```
+
+Fun Commands:
+```
+**No idea probably a bunch of reddit generation shit**
+**Maybe add ai image generation**
+```
