@@ -1,6 +1,9 @@
 # gus-server-bot
 
 # setup 
+```
+go to settings.py and change all the information to the shit u wanna use i guess
+```
 
 # requirement
 Discord.py for Linux and MacOS: 
