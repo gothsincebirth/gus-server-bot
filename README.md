@@ -21,17 +21,17 @@ pip install python-dotenv
 # To Do
 Adminstraitor commands:
 ```
-**Add warning system**
+Add warning system
 ```
 
 General Commands:
 ```
-**Add profile system**
-**Add level system**
+Add profile system
+Add level system
 ```
 
 Fun Commands:
 ```
-**No idea probably a bunch of reddit generation shit**
-**Maybe add ai image generation**
+No idea probably a bunch of reddit shit
+Maybe add ai image generation
 ```
