@@ -1,11 +1,8 @@
 # gus-server-bot
 
-# To Do
-planning on adding a profile system in the future or something if i remember
-# requirements
+#setup 
 
-change the ID in the command files to your user ID
-
+# requirement
 Discord.py for Linux and MacOS: 
 ```
 python3 -m pip install -U discord.py
@@ -20,3 +17,8 @@ Python-dotenv download
 ```
 pip install python-dotenv
 ```
+
+# To Do
+Adminstraitor commands:
+```
+**Add warning system**
