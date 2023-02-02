@@ -36,5 +36,5 @@ Add level system
 Fun Commands:
 ```
 No idea probably a bunch of reddit shit
-Maybe add ai image generation
+Maybe add meme image generation
 ```
