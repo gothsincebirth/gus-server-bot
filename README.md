@@ -1,8 +1,8 @@
-# gus-server-bot
+# server-bot
 
 # setup 
 ```
-go to settings.py and change all the information to the shit u wanna use i guess
+go to settings.py and change all the information 
 ```
 
 # requirement
